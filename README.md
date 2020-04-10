@@ -1,4 +1,4 @@
-## Medicare- The medicine reminder
+## Medicare- The medicine reminder app
 ![images](https://github.com/HabibRh26/IEEE-madC-app-Medicine-Reminder-/blob/master/screenshot/web_hi_res_512.png) </br>
 
 ## Description
